@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 8250640,
       "digest": "sha256:a8e56167f8c773b1e48389039851d6e413eb83fae3b7b791fba0a47d0244840b",
-      "download_count": 165,
+      "download_count": 166,
       "created_at": "2026-05-31T13:54:54Z",
       "updated_at": "2026-05-31T13:54:55Z",
       "browser_download_url": "https://github.com/lissy93/AdGuardian-Term/releases/download/1.7.0/adguardian-linux"
