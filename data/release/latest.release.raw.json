@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 8250640,
       "digest": "sha256:a8e56167f8c773b1e48389039851d6e413eb83fae3b7b791fba0a47d0244840b",
-      "download_count": 188,
+      "download_count": 190,
       "created_at": "2026-05-31T13:54:54Z",
       "updated_at": "2026-05-31T13:54:55Z",
       "browser_download_url": "https://github.com/lissy93/AdGuardian-Term/releases/download/1.7.0/adguardian-linux"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 7310752,
       "digest": "sha256:ac940f06978371361409f965638a5964e65c76ed9b7eeb48061945ee0338a918",
-      "download_count": 32,
+      "download_count": 34,
       "created_at": "2026-05-31T13:54:54Z",
       "updated_at": "2026-05-31T13:54:54Z",
       "browser_download_url": "https://github.com/lissy93/AdGuardian-Term/releases/download/1.7.0/adguardian-linux-arm64"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 5500416,
       "digest": "sha256:168618221b77ff31cec5334f8c9c60c9a5f37591a0825fc2099be21f7971d52c",
-      "download_count": 242,
+      "download_count": 243,
       "created_at": "2026-05-31T13:54:54Z",
       "updated_at": "2026-05-31T13:54:54Z",
       "browser_download_url": "https://github.com/lissy93/AdGuardian-Term/releases/download/1.7.0/adguardian-windows.exe"
