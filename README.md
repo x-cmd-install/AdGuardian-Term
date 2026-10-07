@@ -14,11 +14,11 @@ x install AdGuardian-Term
 
 ## Code insight
 
-Total: **1,544** lines of code across **20** files in the top 5 languages.
+Total: **1,596** lines of code across **20** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 1,403 | 58 | 168 | 15 |
+| Rust | 1,455 | 62 | 174 | 15 |
 | Sh | 76 | 16 | 8 | 1 |
 | Toml | 25 | 12 | 1 | 2 |
 | Makefile | 23 | 13 | 11 | 1 |
@@ -32,40 +32,40 @@ Total: **1,544** lines of code across **20** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `1.7.0` (2026-05-31)
-- **Last commit**: 2026-09-15
+- **Latest**: `1.8.0` (2026-10-06)
+- **Last commit**: 2026-10-06
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 1,670 · **Forks**: 89 · **Open issues**: 34 · **Contributors**: 10
+- **Stars**: 1,670 · **Forks**: 89 · **Open issues**: 34 · **Contributors**: 11
 
 ## Totals (cumulative)
 
-- **Releases**: 10 · **Merged PRs**: 18 · **Open PRs**: 2 · **Closed issues**: 30 · **Open issues**: 4 · **Commits**: 283
+- **Releases**: 11 · **Merged PRs**: 22 · **Open PRs**: 0 · **Closed issues**: 34 · **Open issues**: 0 · **Commits**: 301
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 0 | 1 | 0 | 1 | 0 | 5 |
-| last60d | 2026-08-07 | 0 | 1 | 0 | 2 | 0 | 6 |
-| 90d | 2026-07-08 | 0 | 1 | 0 | 3 | 0 | 7 |
-| last180d | 2026-04-09 | 1 | 5 | 0 | 5 | 0 | 40 |
-| 360d | 2025-10-11 | 1 | 8 | 0 | 8 | 0 | 67 |
-| last720d | 2024-10-16 | 1 | 10 | 2 | 11 | 1 | 115 |
+| 30d | 2026-09-07 | 1 | 5 | 0 | 1 | 0 | 19 |
+| last60d | 2026-08-08 | 1 | 5 | 0 | 2 | 0 | 20 |
+| 90d | 2026-07-09 | 1 | 5 | 0 | 3 | 0 | 21 |
+| last180d | 2026-04-10 | 2 | 9 | 0 | 5 | 0 | 54 |
+| 360d | 2025-10-12 | 2 | 12 | 0 | 8 | 0 | 81 |
+| last720d | 2024-10-17 | 2 | 14 | 0 | 12 | 0 | 133 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [adguardian-linux](https://github.com/Lissy93/AdGuardian-Term/releases/download/1.7.0/adguardian-linux) | 7.9 MiB | `other` |
-| [adguardian-linux-arm64](https://github.com/Lissy93/AdGuardian-Term/releases/download/1.7.0/adguardian-linux-arm64) | 7.0 MiB | `native/linux/arm64` |
-| [adguardian-linux-armv7](https://github.com/Lissy93/AdGuardian-Term/releases/download/1.7.0/adguardian-linux-armv7) | 5.8 MiB | `native/linux/arm` |
-| [adguardian-macos](https://github.com/Lissy93/AdGuardian-Term/releases/download/1.7.0/adguardian-macos) | 6.4 MiB | `native/darwin/x64` |
-| [adguardian-macos-x86_64](https://github.com/Lissy93/AdGuardian-Term/releases/download/1.7.0/adguardian-macos-x86_64) | 7.3 MiB | `native/darwin/x64` |
-| [adguardian-windows.exe](https://github.com/Lissy93/AdGuardian-Term/releases/download/1.7.0/adguardian-windows.exe) | 5.2 MiB | `native/win/x64` |
-| [SHA256SUMS](https://github.com/Lissy93/AdGuardian-Term/releases/download/1.7.0/SHA256SUMS) | 523 B | `other` |
+| [adguardian-linux](https://github.com/Lissy93/AdGuardian-Term/releases/download/1.8.0/adguardian-linux) | 8.1 MiB | `other` |
+| [adguardian-linux-arm64](https://github.com/Lissy93/AdGuardian-Term/releases/download/1.8.0/adguardian-linux-arm64) | 7.3 MiB | `native/linux/arm64` |
+| [adguardian-linux-armv7](https://github.com/Lissy93/AdGuardian-Term/releases/download/1.8.0/adguardian-linux-armv7) | 6.1 MiB | `native/linux/arm` |
+| [adguardian-macos](https://github.com/Lissy93/AdGuardian-Term/releases/download/1.8.0/adguardian-macos) | 6.6 MiB | `native/darwin/x64` |
+| [adguardian-macos-x86_64](https://github.com/Lissy93/AdGuardian-Term/releases/download/1.8.0/adguardian-macos-x86_64) | 7.5 MiB | `native/darwin/x64` |
+| [adguardian-windows.exe](https://github.com/Lissy93/AdGuardian-Term/releases/download/1.8.0/adguardian-windows.exe) | 5.3 MiB | `native/win/x64` |
+| [SHA256SUMS](https://github.com/Lissy93/AdGuardian-Term/releases/download/1.8.0/SHA256SUMS) | 523 B | `other` |
 
 ## Improve this data
 
@@ -76,4 +76,4 @@ Install metadata for AdGuardian-Term lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261006.yml` · 2026-10-06T07:34:15Z._
+_Snapshot: `data/card/261007.yml` · 2026-10-07T06:59:45Z._

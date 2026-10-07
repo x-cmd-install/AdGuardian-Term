@@ -14,11 +14,11 @@ x install AdGuardian-Term
 
 ## 代码洞察
 
-合计: **1,544** 行代码（覆盖前 5 种语言、共 **20** 个文件）。
+合计: **1,596** 行代码（覆盖前 5 种语言、共 **20** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 1,403 | 58 | 168 | 15 |
+| Rust | 1,455 | 62 | 174 | 15 |
 | Sh | 76 | 16 | 8 | 1 |
 | Toml | 25 | 12 | 1 | 2 |
 | Makefile | 23 | 13 | 11 | 1 |
@@ -32,40 +32,40 @@ x install AdGuardian-Term
 
 ## 发布
 
-- **最新版本**: `1.7.0` (2026-05-31)
-- **最近提交**: 2026-09-15
+- **最新版本**: `1.8.0` (2026-10-06)
+- **最近提交**: 2026-10-06
 - **Release 含资产**: 7 个
 
 ## 流行度
 
-- **Star**: 1,670 · **Fork**: 89 · **开放 issue**: 34 · **贡献者**: 10
+- **Star**: 1,670 · **Fork**: 89 · **开放 issue**: 34 · **贡献者**: 11
 
 ## 累计统计
 
-- **发布数**: 10 · **已合并 PR**: 18 · **开放 PR**: 2 · **已关闭 issue**: 30 · **开放 issue**: 4 · **提交数**: 283
+- **发布数**: 11 · **已合并 PR**: 22 · **开放 PR**: 0 · **已关闭 issue**: 34 · **开放 issue**: 0 · **提交数**: 301
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 0 | 1 | 0 | 1 | 0 | 5 |
-| last60d | 2026-08-07 | 0 | 1 | 0 | 2 | 0 | 6 |
-| 90d | 2026-07-08 | 0 | 1 | 0 | 3 | 0 | 7 |
-| last180d | 2026-04-09 | 1 | 5 | 0 | 5 | 0 | 40 |
-| 360d | 2025-10-11 | 1 | 8 | 0 | 8 | 0 | 67 |
-| last720d | 2024-10-16 | 1 | 10 | 2 | 11 | 1 | 115 |
+| 30d | 2026-09-07 | 1 | 5 | 0 | 1 | 0 | 19 |
+| last60d | 2026-08-08 | 1 | 5 | 0 | 2 | 0 | 20 |
+| 90d | 2026-07-09 | 1 | 5 | 0 | 3 | 0 | 21 |
+| last180d | 2026-04-10 | 2 | 9 | 0 | 5 | 0 | 54 |
+| 360d | 2025-10-12 | 2 | 12 | 0 | 8 | 0 | 81 |
+| last720d | 2024-10-17 | 2 | 14 | 0 | 12 | 0 | 133 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [adguardian-linux](https://github.com/Lissy93/AdGuardian-Term/releases/download/1.7.0/adguardian-linux) | 7.9 MiB | `other` |
-| [adguardian-linux-arm64](https://github.com/Lissy93/AdGuardian-Term/releases/download/1.7.0/adguardian-linux-arm64) | 7.0 MiB | `native/linux/arm64` |
-| [adguardian-linux-armv7](https://github.com/Lissy93/AdGuardian-Term/releases/download/1.7.0/adguardian-linux-armv7) | 5.8 MiB | `native/linux/arm` |
-| [adguardian-macos](https://github.com/Lissy93/AdGuardian-Term/releases/download/1.7.0/adguardian-macos) | 6.4 MiB | `native/darwin/x64` |
-| [adguardian-macos-x86_64](https://github.com/Lissy93/AdGuardian-Term/releases/download/1.7.0/adguardian-macos-x86_64) | 7.3 MiB | `native/darwin/x64` |
-| [adguardian-windows.exe](https://github.com/Lissy93/AdGuardian-Term/releases/download/1.7.0/adguardian-windows.exe) | 5.2 MiB | `native/win/x64` |
-| [SHA256SUMS](https://github.com/Lissy93/AdGuardian-Term/releases/download/1.7.0/SHA256SUMS) | 523 B | `other` |
+| [adguardian-linux](https://github.com/Lissy93/AdGuardian-Term/releases/download/1.8.0/adguardian-linux) | 8.1 MiB | `other` |
+| [adguardian-linux-arm64](https://github.com/Lissy93/AdGuardian-Term/releases/download/1.8.0/adguardian-linux-arm64) | 7.3 MiB | `native/linux/arm64` |
+| [adguardian-linux-armv7](https://github.com/Lissy93/AdGuardian-Term/releases/download/1.8.0/adguardian-linux-armv7) | 6.1 MiB | `native/linux/arm` |
+| [adguardian-macos](https://github.com/Lissy93/AdGuardian-Term/releases/download/1.8.0/adguardian-macos) | 6.6 MiB | `native/darwin/x64` |
+| [adguardian-macos-x86_64](https://github.com/Lissy93/AdGuardian-Term/releases/download/1.8.0/adguardian-macos-x86_64) | 7.5 MiB | `native/darwin/x64` |
+| [adguardian-windows.exe](https://github.com/Lissy93/AdGuardian-Term/releases/download/1.8.0/adguardian-windows.exe) | 5.3 MiB | `native/win/x64` |
+| [SHA256SUMS](https://github.com/Lissy93/AdGuardian-Term/releases/download/1.8.0/SHA256SUMS) | 523 B | `other` |
 
 ## 改进这些数据
 
@@ -76,4 +76,4 @@ AdGuardian-Term 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/i
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261006.yml` · 2026-10-06T07:34:15Z._
+_数据快照: `data/card/261007.yml` · 2026-10-07T06:59:45Z._
