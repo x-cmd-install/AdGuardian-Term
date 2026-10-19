@@ -38,7 +38,7 @@ Total: **1,596** lines of code across **20** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,675 · **Forks**: 89 · **Open issues**: 34 · **Contributors**: 11
+- **Stars**: 1,677 · **Forks**: 89 · **Open issues**: 34 · **Contributors**: 11
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **1,596** lines of code across **20** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-18 | 1 | 4 | 0 | 0 | 0 | 14 |
-| last60d | 2026-08-19 | 1 | 5 | 0 | 1 | 0 | 19 |
-| 90d | 2026-07-20 | 1 | 5 | 0 | 3 | 0 | 20 |
-| last180d | 2026-04-21 | 2 | 9 | 0 | 5 | 0 | 53 |
-| 360d | 2025-10-23 | 2 | 12 | 0 | 8 | 0 | 77 |
-| last720d | 2024-10-28 | 2 | 14 | 0 | 12 | 0 | 133 |
+| 30d | 2026-09-19 | 1 | 4 | 0 | 0 | 0 | 14 |
+| last60d | 2026-08-20 | 1 | 5 | 0 | 1 | 0 | 19 |
+| 90d | 2026-07-21 | 1 | 5 | 0 | 3 | 0 | 20 |
+| last180d | 2026-04-22 | 2 | 9 | 0 | 5 | 0 | 53 |
+| 360d | 2025-10-24 | 2 | 11 | 0 | 8 | 0 | 77 |
+| last720d | 2024-10-29 | 2 | 14 | 0 | 12 | 0 | 133 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for AdGuardian-Term lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261018.yml` · 2026-10-18T05:27:06Z._
+_Snapshot: `data/card/261019.yml` · 2026-10-19T05:39:13Z._
