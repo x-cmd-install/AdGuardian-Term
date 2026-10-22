@@ -14,11 +14,11 @@ x install AdGuardian-Term
 
 ## Code insight
 
-Total: **1,596** lines of code across **20** files in the top 5 languages.
+Total: **1,655** lines of code across **20** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 1,455 | 62 | 174 | 15 |
+| Rust | 1,514 | 64 | 180 | 15 |
 | Sh | 76 | 16 | 8 | 1 |
 | Toml | 25 | 12 | 1 | 2 |
 | Makefile | 23 | 13 | 11 | 1 |
@@ -33,27 +33,27 @@ Total: **1,596** lines of code across **20** files in the top 5 languages.
 ## Release
 
 - **Latest**: `1.8.0` (2026-10-06)
-- **Last commit**: 2026-10-06
+- **Last commit**: 2026-10-21
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 1,677 · **Forks**: 89 · **Open issues**: 34 · **Contributors**: 11
+- **Stars**: 1,678 · **Forks**: 89 · **Open issues**: 34 · **Contributors**: 13
 
 ## Totals (cumulative)
 
-- **Releases**: 11 · **Merged PRs**: 22 · **Open PRs**: 0 · **Closed issues**: 34 · **Open issues**: 0 · **Commits**: 301
+- **Releases**: 11 · **Merged PRs**: 23 · **Open PRs**: 0 · **Closed issues**: 34 · **Open issues**: 0 · **Commits**: 307
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 1 | 4 | 0 | 0 | 0 | 14 |
-| last60d | 2026-08-22 | 1 | 5 | 0 | 1 | 0 | 19 |
-| 90d | 2026-07-23 | 1 | 5 | 0 | 3 | 0 | 20 |
-| last180d | 2026-04-24 | 2 | 9 | 0 | 5 | 0 | 53 |
-| 360d | 2025-10-26 | 2 | 11 | 0 | 8 | 0 | 77 |
-| last720d | 2024-10-31 | 2 | 14 | 0 | 12 | 0 | 133 |
+| 30d | 2026-09-22 | 1 | 5 | 0 | 0 | 0 | 19 |
+| last60d | 2026-08-23 | 1 | 6 | 0 | 1 | 0 | 24 |
+| 90d | 2026-07-24 | 1 | 6 | 0 | 3 | 0 | 25 |
+| last180d | 2026-04-25 | 2 | 10 | 0 | 5 | 0 | 58 |
+| 360d | 2025-10-27 | 2 | 12 | 0 | 8 | 0 | 82 |
+| last720d | 2024-11-01 | 2 | 15 | 0 | 11 | 0 | 139 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for AdGuardian-Term lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T05:52:43Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T05:44:54Z._
