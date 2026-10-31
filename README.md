@@ -48,12 +48,12 @@ Total: **1,655** lines of code across **20** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 1 | 5 | 0 | 0 | 0 | 19 |
-| last60d | 2026-08-31 | 1 | 6 | 0 | 1 | 0 | 24 |
-| 90d | 2026-08-01 | 1 | 6 | 0 | 2 | 0 | 25 |
-| last180d | 2026-05-03 | 2 | 10 | 0 | 5 | 0 | 57 |
-| 360d | 2025-11-04 | 2 | 12 | 0 | 8 | 0 | 81 |
-| last720d | 2024-11-09 | 2 | 15 | 0 | 11 | 0 | 138 |
+| 30d | 2026-10-01 | 1 | 5 | 0 | 0 | 0 | 19 |
+| last60d | 2026-09-01 | 1 | 6 | 0 | 1 | 0 | 24 |
+| 90d | 2026-08-02 | 1 | 6 | 0 | 2 | 0 | 25 |
+| last180d | 2026-05-04 | 2 | 10 | 0 | 5 | 0 | 57 |
+| 360d | 2025-11-05 | 2 | 12 | 0 | 8 | 0 | 81 |
+| last720d | 2024-11-10 | 2 | 15 | 0 | 11 | 0 | 138 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for AdGuardian-Term lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T07:05:20Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T06:41:14Z._
