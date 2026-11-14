@@ -33,27 +33,27 @@ Total: **1,655** lines of code across **20** files in the top 5 languages.
 ## Release
 
 - **Latest**: `1.8.0` (2026-10-06)
-- **Last commit**: 2026-10-21
+- **Last commit**: 2026-11-13
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 1,683 · **Forks**: 89 · **Open issues**: 35 · **Contributors**: 13
+- **Stars**: 1,684 · **Forks**: 89 · **Open issues**: 35 · **Contributors**: 13
 
 ## Totals (cumulative)
 
-- **Releases**: 11 · **Merged PRs**: 23 · **Open PRs**: 0 · **Closed issues**: 34 · **Open issues**: 1 · **Commits**: 307
+- **Releases**: 11 · **Merged PRs**: 23 · **Open PRs**: 0 · **Closed issues**: 34 · **Open issues**: 1 · **Commits**: 308
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 0 | 1 | 0 | 0 | 1 | 5 |
-| last60d | 2026-09-14 | 1 | 6 | 0 | 0 | 1 | 19 |
-| 90d | 2026-08-15 | 1 | 6 | 0 | 1 | 1 | 24 |
-| last180d | 2026-05-17 | 2 | 10 | 0 | 5 | 1 | 55 |
-| 360d | 2025-11-18 | 2 | 12 | 0 | 6 | 1 | 79 |
-| last720d | 2024-11-23 | 2 | 15 | 0 | 11 | 1 | 137 |
+| 30d | 2026-10-15 | 0 | 1 | 0 | 0 | 1 | 6 |
+| last60d | 2026-09-15 | 1 | 5 | 0 | 0 | 1 | 20 |
+| 90d | 2026-08-16 | 1 | 6 | 0 | 1 | 1 | 25 |
+| last180d | 2026-05-18 | 2 | 10 | 0 | 5 | 1 | 56 |
+| 360d | 2025-11-19 | 2 | 12 | 0 | 6 | 1 | 80 |
+| last720d | 2024-11-24 | 2 | 15 | 0 | 11 | 1 | 138 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for AdGuardian-Term lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T08:11:16Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T08:06:39Z._
